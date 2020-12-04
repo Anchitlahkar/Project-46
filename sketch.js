@@ -13,6 +13,7 @@ function preload() {
     alienShip = loadImage("/images/alien.png")
     spaceCraftImg = loadImage("/images/player.png")
     laserSound = loadSound("/audio/laser.mp3")
+    blustSound = loadSound("/audio/Blust Sound.mp3")
 }
 
 
